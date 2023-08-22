@@ -6,9 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/gatot/OneDrive/Documentos/hotel-alura/hotel-alura/JARS/c3p0-0.9.5.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gatot/OneDrive/Documentos/hotel-alura/hotel-alura/JARS/jcalendar-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gatot/OneDrive/Documentos/hotel-alura/hotel-alura/JARS/mchange-commons-java-0.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gatot/OneDrive/Documentos/hotel-alura/hotel-alura/JARS/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:\Users\gatot\Downloads\hotelAlura\JARS\c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="C:\Users\gatot\Downloads\hotelAlura\JARS\jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:\Users\gatot\Downloads\hotelAlura\JARS\mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="C:\Users\gatot\Downloads\hotelAlura\JARS\mysql-connector-j-8.0.32.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
